@@ -1,10 +1,13 @@
 # Midnight Heist: The Jewel Thief
 
+<img width="1582" alt="Screenshot 2025-03-18 at 10 22 44 PM" src="https://github.com/user-attachments/assets/ffa1acb4-b243-49eb-8841-2e049c58cf8e" />
 
-https://github.com/user-attachments/assets/0a40c6f7-4f01-4a67-b256-8f27b175870b
 
 
 ## 📌 Overview
+
+https://github.com/user-attachments/assets/0a40c6f7-4f01-4a67-b256-8f27b175870b
+
 **Midnight Heist: The Jewel Thief** is an immersive stealth-action game where players assume the role of a master thief, infiltrating high-security locations to steal valuable jewels. The game features AI-powered security, dynamic environments, and realistic stealth mechanics to challenge the player's strategic thinking and precision.
 
 ## 🎮 Features
