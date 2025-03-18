@@ -114,7 +114,7 @@ git push origin feature-name
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify the game.
 
-## 📩 Contact & Support
-For issues or feature requests, open a GitHub issue or contact **yourname@email.com**.
+## 📩 Contact  
+https://x.com/sagevedant
 
 Happy Heisting! 🕵️‍♂️💎
